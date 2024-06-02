@@ -1,4 +1,4 @@
 # Mika
 
-pip install pycryptodome
-pip install requests
+# pip install pycryptodome
+# pip install requests
